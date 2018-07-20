@@ -1,0 +1,135 @@
+Ahmed Moh Mohamed Morsy Gomah
+3.5
+Cairo, Shobra
+01112345680
+cs
+Hamed Ahm Mohamed Morsy Gomah
+2.4
+Cairo, Shobra
+01112345682
+cs
+Hanan saied Mohamed Morsy Gomah
+4
+Cairo, Shobra
+01112345684
+cs
+Hamdy omar Mohamed Morsy Gomah
+3.4
+Cairo, 6 october
+01112345686
+IS
+Hamoda rady Said Sayed Ahmed Ibrahim
+2
+Alex, asafra
+01112345688
+IS
+Ali Ali Said Sayed Ahmed Ibrahim
+3
+Cairo, 6 october
+01112345690
+IS
+Alaa Ahm Said Sayed Ahmed Ibrahim
+4.1
+Asout, street 10
+01112345692
+IS
+Alleia Saad Said Sayed Ahmed Ibrahim
+5
+Cairo, 6 october
+01112345694
+IS
+Aliaa mansour Said Sayed Ahmed Ibrahim
+3
+Asout, street 10
+01112345696
+IS
+Ayman Fawzy Said Sayed Ahmed Ibrahim
+1
+Cairo, Shobra
+01112345698
+IS
+Mostafa Mohamed Morsy Gomah
+2
+Cairo, 6 october
+01112345700
+IS
+Mohamed Ibrahim Hasan Abu Jabr
+3
+Cairo, 6 october
+01112345702
+CS
+Mohamed Ibrahim Hosni El-Gahawy
+4
+Cairo, 6 october
+01112345704
+CS
+Walla Safan Mohamed Safan Mohamed
+5
+Cairo, 6 october
+01112345706
+CS
+Mahmoud Rafik Younes Dalloul
+4
+Cairo, 6 october
+01112345708
+CS
+Basem Zeiad Eshak Alghosain
+3
+Alex, asafra
+01112345710
+CS
+Mohammed Fathy Hussien Abu-Eleyan
+2
+Alex, asafra
+01112345712
+CS
+Mohammed Moroh Kamel Zaid
+1
+Alex, asafra
+01112345714
+CS
+Mohammad Nehad Eshaq Mahmoud Al-Ghosin
+1
+Alex, asafra
+01112345716
+CS
+Zaid Ali Fahad Irshaid
+2
+Alex, asafra
+01112345718
+CS
+Bsama Abd El Manam Ali Al Hammali
+1.4
+Alex, asafra
+01112345720
+CS
+Ahmed El-Sayed Ahmed Mohamed Ghobish
+3.5
+Alex, asafra
+01112345722
+DS
+Hani Abd Karem Abd Malek Abu Rjelah
+3.3
+Cairo, Shobra
+01112345724
+DS
+Engy Mohamed Farouk Abdel-Aziz Aly
+4.4
+Cairo, Shobra
+01112345726
+DS
+Mohamed Mossad Abdel-Allah Hassan
+3.4
+Cairo, Shobra
+01112345728
+DS
+Hamam Mansour Saied Al-Gamdi
+4.4
+Cairo, Shobra
+01112345730
+DS
+Abd El Rahman Hassan Mohamed El Deeb
+2.2
+Cairo, Shobra
+01112345732
+DS

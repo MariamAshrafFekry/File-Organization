@@ -1,0 +1,75 @@
+Mohamed Fathy Ahmed Mohamed Al-omar
+1.1
+Cairo, Shobra
+1112345732
+CS
+Ahmed Abdalla Muosallm Khalil Al-Najjar
+1.5
+Cairo, Shobra
+1112345735
+DS
+Abd EL-Latef Ahmed Mohamed Nagi
+1.9
+Cairo, Shobra
+1112345738
+IT
+Abdel -Aziz Saleh Mohammed Jahlan
+2.3
+Cairo, Shobra
+1112345741
+CS
+Samah Ahmed Ali Ahmed
+2.7
+Alex, asafra
+1112345744
+IS
+Hatem Amin Mohamed Al-Natour
+3.1
+Alex, asafra
+1112345747
+CS
+Mohamed Ali Mohamed Shabtah
+3.5
+Alex, asafra
+1112345750
+CS
+Abd Allah Omar Abod Sakloua
+3.9
+Alex, asafra
+1112345753
+DS
+Ghali Shaban Ghali Khader
+4.3
+Alex, asafra
+1112345756
+IT
+Ayman Hussien Mohamed Chewai
+4.7
+Cairo, 6 october
+1112345759
+CS
+Mohamed Rezk Mohamed Jel Jon
+1.2
+Cairo, 6 october
+1112345762
+DS
+Abd alla Mohamed Ganem AL-Dhubaibi
+1.6
+Cairo, 6 october
+1112345765
+CS
+Gamil Abdul-Karem Abdo Al-Mesbahi
+2
+Cairo, 6 october
+1112345768
+IT
+Mohammed Saleh Salem Al-Tuhaifi
+2.4
+Cairo, 6 october
+1112345771
+CS
+Jaberti Ali Mohamoud
+2.8
+Cairo, 6 october
+1112345774
+DS
